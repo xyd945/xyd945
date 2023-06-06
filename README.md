@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**xyd945/xyd945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on mobifi.io project as project lead.
 - 🌱 I’m currently learning crypto trading, typescript/javascript, solidity
