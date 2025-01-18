@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working on mobifi.io project as project lead.
+- 🔭 I’m currently working on detrip.travel as project lead.
 - 🌱 I’m currently learning crypto trading, typescript/javascript, solidity
 - 👯 I’m looking to collaborate on the ideas that can change the world.
 - 🤔 I’m looking for hiring great engineers.
