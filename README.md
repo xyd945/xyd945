@@ -9,4 +9,4 @@ About me:
 - 📫 How to reach me: https://twitter.com/yudixu
 - ⚡ Fun fact: I am not a developer, but I (try to) write code
 
-[![XYD's GitHub stats](https://github-readme-stats-two-sigma-36.vercel.app/api?username=xyd945&show_icons=true)](https://github.com/xyd945/github-readme-stats)
+[![XYD's GitHub stats](https://github-readme-stats-two-sigma-36.vercel.app/api?username=xyd945&show_icons=true&theme=transparent)](https://github.com/xyd945/github-readme-stats)
