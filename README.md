@@ -2,10 +2,10 @@
 
 About me:
 
-- 🔭 I’m currently cooking on [detrip.travel](https://detrip.travel).
-- 🌱 I’m currently learning AI agent, crypto trading, typescript/javascript, solidity
-- 👯 I’m looking to collaborate on the ideas that can change the world.
-- 🤔 I’m looking for hiring great engineers.
+- 🍳 I’m currently cooking on [detrip.travel](https://detrip.travel).
+- ㊫ I’m currently learning AI agent, crypto trading, typescript/javascript, solidity
+- 👯 I’m looking to collaborate on the ideas that can change the world, either as an angle investor or builder.
+- 🧳 I’m planning my next adventure on earth.
 - 📫 How to reach me: https://twitter.com/yudixu
 - ⚡ Fun fact: I am not a developer, but I (try to) write code
 
