@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working on [detrip.travel](https://detrip.travel) as project lead.
+- 🔭 I’m currently cooking on [detrip.travel](https://detrip.travel).
 - 🌱 I’m currently learning AI agent, crypto trading, typescript/javascript, solidity
 - 👯 I’m looking to collaborate on the ideas that can change the world.
 - 🤔 I’m looking for hiring great engineers.
