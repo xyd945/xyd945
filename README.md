@@ -6,7 +6,7 @@ Seriel failure entrepreneur, ex-CTO advisor of Shell, raised millions and listed
 - 🍳 I'm building quant strat and trading app for my mini hedge fund.
 - ㊫ I’m currently learning Spanish. Aprendo Espanol🇪🇸. 
 - 👯 I’m looking to collaborate on the ideas that can change the world, either as an angle investor or builder. (interested area: Energy, AI, Robotic, Fintech) 
-- 🧳 2026 planned destinations: 🇨🇳🇺🇸🇮🇹🇰🇷🇯🇵🇮🇳 and hopefully South America!
+- 🧳 2026 planned destinations: 🇨🇳(✅)🇺🇸()🇮🇹()🇰🇷(✅)🇯🇵()🇮🇳() and hopefully South America!
 - 📫 How to reach me: https://twitter.com/yudixu
 - ⚡ Fun fact: I am NOT a developer 🙈
 
