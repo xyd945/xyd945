@@ -11,6 +11,6 @@ I started to document my entrepreneur and investment journey at https://100thing
 - 🧳 2026 planned destinations: 🇨🇳(✅)🇺🇸()🇮🇹()🇰🇷(✅)🇯🇵()🇮🇳() and hopefully South America!
 - 🎓 I got a MBA offer from a top Uni in China (with top scholorship, 50% off), shall I go or not?🤔
 - 📫 How to reach me: https://twitter.com/yudixu
-- ⚡ Fun fact: I drink sparkly water in the bar🍸 🙈
+- ⚡ Fun fact: I drink sparkling water in the bar🍸 🙈
 
 [![XYD's GitHub stats](https://github-readme-stats-two-sigma-36.vercel.app/api?username=xyd945&show_icons=true&theme=transparent)](https://github.com/xyd945/github-readme-stats)
