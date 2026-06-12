@@ -8,8 +8,8 @@ I started to document my entrepreneur and investment journey at https://100thing
 - 🍳 I'm building quant strat and trading app for my mini hedge fund.
 - ㊫ I’m currently learning Spanish. Aprendo Espanol🇪🇸. 
 - 👯 I’m looking to collaborate on the ideas that can change the world, either as an angle investor or builder. (interested area: Energy, AI, Robotic, Fintech) 
-- 🧳 2026 planned destinations: 🇨🇳(✅)🇺🇸()🇮🇹()🇰🇷(✅)🇯🇵()🇮🇳() and hopefully South America!
-- 🎓 I got a MBA offer from a top Uni in China (with top scholorship, 50% off), shall I go or not?🤔
+- 🧳 2026 planned destinations: 🇨🇳(✅)🇺🇸()🇮🇹(✅)🇰🇷(✅)🇯🇵()🇮🇳() and hopefully South America!
+- 🎓 I got a MBA offer from a top Uni in China (with 50% scholorship), shall I go or not?🤔
 - 📫 How to reach me: https://twitter.com/yudixu
 - ⚡ Fun fact: I drink sparkling water in the bar🍸 🙈
 
