@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 About me:
-Seriel failure entrepreneur, ex-CTO advisor of Shell, raised millions and listed my crypto token worth over $50M MCAP (on UNISWAP and Gate.io), sold product and IP for an exit(with a loss), being incubated in Tenity (Switzerland), YesDelft (NL) with no success I dreamed about 😅 
+Serial failure entrepreneur, ex-CTO advisor of Shell, raised millions and listed my crypto token worth over $50M MCAP (on UNISWAP and Gate.io), sold product and IP for an exit(with a loss), being incubated in Tenity (Switzerland), YesDelft (NL) with no success I dreamed about 😅 
 
 I started to document my entrepreneur and investment journey at https://100things.nl/, check it out👀
 
