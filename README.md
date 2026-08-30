@@ -12,6 +12,6 @@ I started to document my entrepreneur and investment journey at https://100thing
 - 🧳 2026 planned destinations: 🇨🇳(✅)🇮🇹(✅)🇰🇷(✅)🇸🇮(✅)🇭🇷(✅)🇯🇵()🇮🇳()🇺🇸()🇮🇪()
 - 🎓 I was educated in China, US, NL and online. 
 - 📫 How to reach me: https://twitter.com/yudixu, yudi@xyd.me
-- ⚡ Fun fact: I drink sparkling water in the bar🍸 🙈
+- ⚡ Fun fact: I am allergic to alcohol🍸 🙈
 
 [![xyd945's GitHub stats](https://github-stats-extended.vercel.app/api?username=xyd945)](https://github.com/stats-organization/github-stats-extended)
