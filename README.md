@@ -14,4 +14,4 @@ I started to document my entrepreneur and investment journey at https://100thing
 - 📫 How to reach me: https://twitter.com/yudixu, yudi@xyd.me
 - ⚡ Fun fact: I drink sparkling water in the bar🍸 🙈
 
-[![xyd945's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![xyd945's GitHub stats](https://github-stats-extended.vercel.app/api?username=xyd945)](https://github.com/stats-organization/github-stats-extended)
